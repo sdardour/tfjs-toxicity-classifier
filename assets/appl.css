@@ -1,0 +1,18 @@
+
+@charset "utf-8";
+
+#appl {
+    width: 100%;
+    margin: 2rem auto;
+    padding: 2rem;
+    background: url(appl.png);
+    border-left: 25px solid #dedede;
+}
+
+#appl input, #appl textarea {
+    border-top: none;
+    border-right: 1px solid #dedede;
+    border-bottom: none;
+    border-left: 1px solid #dedede;
+    border-radius: 0;
+}
